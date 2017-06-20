@@ -1,0 +1,2 @@
+This file will run the Sales data for the Bronx obtained from the following website:
+http://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
